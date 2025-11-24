@@ -79,7 +79,7 @@ int main() {
     int choice, data, target;
 
     while (1) {
-        printf("\n--- Doubly Linked List Menu ---\n");
+        printf("Options\n");
         printf("1. Insert at End\n");
         printf("2. Insert to the Left of a Node\n");
         printf("3. Delete a Node\n");
